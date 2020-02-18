@@ -1,0 +1,37 @@
+Name:	lux.inlinehooks
+State:	S (sleeping)
+Tgid:	14911
+Pid:	14911
+PPid:	765
+TracerPid:	0
+Uid:	10114	10114	10114	10114
+Gid:	10114	10114	10114	10114
+FDSize:	256
+Groups:	9997 50114 
+VmPeak:	 1550616 kB
+VmSize:	 1519428 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   58892 kB
+VmRSS:	   58152 kB
+VmData:	  141328 kB
+VmStk:	    8192 kB
+VmExe:	      44 kB
+VmLib:	   64620 kB
+VmPTE:	     258 kB
+VmSwap:	       0 kB
+Threads:	17
+SigQ:	1/12281
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000009204
+SigIgn:	0000000000000000
+SigCgt:	00000002000094f8
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	fffffff000000000
+Cpus_allowed:	f
+Cpus_allowed_list:	0-3
+voluntary_ctxt_switches:	177
+nonvoluntary_ctxt_switches:	778
